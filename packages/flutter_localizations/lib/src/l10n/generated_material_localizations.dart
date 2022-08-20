@@ -30648,6 +30648,7 @@ class MaterialLocalizationRu extends GlobalMaterialLocalizations {
   String get saveButtonLabel => 'СОХРАНИТЬ';
 
   @override
+  // ScriptCategory get scriptCategory => 'Лайк';
   ScriptCategory get scriptCategory => ScriptCategory.englishLike;
 
   @override
